@@ -1,0 +1,37 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Container styling */
+.container {
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styling */
+h2 {
+    color: #007bff;
+}
+
+/* Form input styling */
+input[type="file"] {
+    margin-top: 10px;
+}
+
+/* Submit button styling */
+button {
+    margin-top: 10px;
+}
+
+/* Prediction result styling */
+.alert {
+    margin-top: 20px;
+}
